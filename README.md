@@ -1,1 +1,1 @@
-This project lives at [https://gitlab.com/you/repo](https://gitlab.com/htsilvakt04/pintos-os)
+This project lives at [htsilva/gitlab/repo](https://gitlab.com/htsilvakt04/pintos-os)
